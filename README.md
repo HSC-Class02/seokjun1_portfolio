@@ -4,6 +4,8 @@
 
 ## Portfolio Structure
 
+https://seokjun3portfolio.vercel.app
+
 자기소개서 리포트(`sa.pdf`)와 웹 포트폴리오의 핵심 구성을 5개 영역으로 정리했습니다.
 
 | Category | 주요 내용 |
